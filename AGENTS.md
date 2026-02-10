@@ -12,7 +12,7 @@ This project follows a modular, high-performance architecture leveraging NestJS 
 **Focus:** Developer Experience (DX), Type Safety, and Universal Adoption.
 * **Domain:** The "Bridge." Nexus manages the public-facing API surface and type definitions. They ensure the NestJS controllers are exposed via a beautiful, well-documented REST/GraphQL interface.
 * **Philosophy:** "If a developer needs a manual, I failed." Nexus focuses on OpenAPI/Swagger specifications, Zod/class-validator schemas, and ensuring that any client consuming the API has perfect IntelliSense and type safety.
-* **Output:** TypeScript interfaces, API documentation (Swagger), and client-side integration examples.
+* **Output:** TypeScript interfaces, API documentation (Swagger), Docusaurus documentation site, and client-side integration examples.
 
 ## 👁️ Ghost (QA, Security & Protocol Research)
 **Focus:** Edge Cases, Security, and Protocol Alignment.
